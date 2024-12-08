@@ -35,13 +35,13 @@ const Header = () => {
     <Link href="/">Home</Link>
   </li>
   <li className="cursor-pointer hover:text-gray-400">
-    <Link href="/aboutpage">Aboutpage</Link>
+    <Link href="/about">About</Link>
   </li>
   <li className="cursor-pointer hover:text-gray-400">
     <Link href="/products">Products</Link>
   </li>
   <li className="cursor-pointer hover:text-gray-400">
-    <Link href="/shoppingbasket">Shoppingbasket</Link>
+    <Link href="/shopping">Shopping</Link>
   </li>
 </ul>
 
