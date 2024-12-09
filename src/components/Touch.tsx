@@ -28,7 +28,7 @@ const Touch = () => {
                 </button>
               </div>
             </div>
- <div className="w-full md:w-[890px] h-auto">
+ <div className="mt-10 w-full md:w-[890px] h-auto">
               <Image
                 src='/images/blend.png'
                 height={800}
