@@ -26,7 +26,7 @@ export default function Newceramics() {
               <Image
                 src="/images/vase set.png" // Replace with actual image
                 alt="Rustic Vase Set"
-                className="w-full h-64 object-cover rounded-md"
+                className="w-full h-65 object-cover rounded-md"
               />
               <h3 className="text-lg font-medium text-gray-700 mt-4">Rustic Vase Set</h3>
               <p className="text-gray-500 mt-1">£165</p>

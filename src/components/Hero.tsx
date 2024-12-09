@@ -19,11 +19,13 @@ export default function Hero() {
           </div>
   
           {/* Right Section */}
-          <div className="mt-8 md:mt-0 md:w-1/2 flex justify-center">
+          <div className="mt-8 w-full md:w-[890px] h-auto flex justify-center">
             <Image
               src="/images/chair.png"  // Replace with your image URL
               alt="Furniture Chair"
-              className="w-2/3 md:w-1/2 object-contain"
+              height={500}
+              width={500}
+              className="w-2/1 md:w-1/2 object-contain"
             />
           </div>
         </div>
